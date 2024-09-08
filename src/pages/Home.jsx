@@ -1,12 +1,14 @@
 ///
 import Header from './../components/hero/Hero.jsx';
+import Optw from '../components/opentoWork/openToWotk.jsx';
 
 ///
 const HomePage = () => {
  return (
   <>
    <Header />
-
+   <Optw />
+   
    <main class="section">
     <div class="container">
      <ul class="content-list">

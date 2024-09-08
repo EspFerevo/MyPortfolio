@@ -1,8 +1,9 @@
+///
 import sun from './../../img/icons/sun.svg';
 import moon from './../../img/icons/moon.svg';
-
 import './styles.css'
 
+///
 const DarkModeBtn = () => {
  return (
   <button className="dark-mode-btn">

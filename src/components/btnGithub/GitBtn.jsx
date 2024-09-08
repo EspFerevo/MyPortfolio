@@ -1,6 +1,8 @@
+///
 import './styles.css';
 import gitblack from './../../img/icons/gitHub-black.svg';
 
+///
 const GitBtn = ({ link }) => {
   return (
     <a

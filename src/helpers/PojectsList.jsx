@@ -14,51 +14,51 @@ import project06Big from './../img/projects/06-big.jpg';
 
 ///
 const projects = [
-  {
-    title: 'Project',
-    skills: 'Node Js',
-    img: project01,
-    imgBig: project01Big,
-    gitHubLink: 'https://github.com/electerious/basicLightbox#readme',
-  },
-  {
-    title: 'Project',
-    skills: 'Node Js',
-    img: project02,
-    imgBig: project02Big,
-  },
-  {
-    title: 'Project',
-    skills: 'Node Js',
-    img: project03,
-    imgBig: project03Big,
+ {
+  title: 'Project',
+  skills: 'Node Js',
+  img: project01,
+  imgBig: project01Big,
+  gitHubLink: 'https://github.com/electerious/basicLightbox#readme',
+ },
+ {
+  title: 'Project',
+  skills: 'Node Js',
+  img: project02,
+  imgBig: project02Big,
+ },
+ {
+  title: 'Project',
+  skills: 'Node Js',
+  img: project03,
+  imgBig: project03Big,
 
-    gitHubLink: 'https://github.com/electerious/basicLightbox#readme',
-  },
-  {
-    title: 'Project',
-    skills: 'Node Js',
-    img: project04,
-    imgBig: project04Big,
+  gitHubLink: 'https://github.com/electerious/basicLightbox#readme',
+ },
+ {
+  title: 'Project',
+  skills: 'Node Js',
+  img: project04,
+  imgBig: project04Big,
 
-    gitHubLink: 'https://github.com/electerious/basicLightbox#readme',
-  },
-  {
-    title: 'Project',
-    skills: 'Node Js',
-    img: project05,
-    imgBig: project05Big,
+  gitHubLink: 'https://github.com/electerious/basicLightbox#readme',
+ },
+ {
+  title: 'Project',
+  skills: 'Node Js',
+  img: project05,
+  imgBig: project05Big,
 
-    gitHubLink: 'https://github.com/electerious/basicLightbox#readme',
-  },
-  {
-    title: 'Project',
-    skills: 'Node Js',
-    img: project06,
-    imgBig: project06Big,
+  gitHubLink: 'https://github.com/electerious/basicLightbox#readme',
+ },
+ {
+  title: 'Project',
+  skills: 'Node Js',
+  img: project06,
+  imgBig: project06Big,
 
-    gitHubLink: 'https://github.com/electerious/basicLightbox#readme',
-  },
+  gitHubLink: 'https://github.com/electerious/basicLightbox#readme',
+ },
 ];
 
 export { projects };

@@ -1,4 +1,4 @@
-export default detectedDarkMode = () => {
+const detectedDarkMode = () => {
  if (
   window.matchMedia &&
   window.matchMedia('(prefers-color-scheme: dark)').matches
@@ -7,3 +7,5 @@ export default detectedDarkMode = () => {
  }
  return light;
 };
+
+export default detectedDarkMode;

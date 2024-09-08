@@ -1,0 +1,27 @@
+.btn-outline {
+    display: inline-flex;
+    align-items: center;
+    padding: 10px 20px;
+    border: 2px solid #000;
+    border-radius: 8px;
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+    transition: all 0.3s ease;
+  }
+  
+  .btn-outline img {
+    margin-right: 10px;
+    width: 24px;
+  }
+  
+  .btn-outline:hover {
+    background-color: #000;
+    color: #fff;
+    border-color: #000;
+  }
+  
+  .btn-outline:hover img {
+    filter: invert(100%);
+  }
+  

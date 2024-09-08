@@ -1,10 +1,11 @@
+import "./style.css";
+
 ///Social media import
 import github from "./../../img/icons/gitHub.svg";
 import linkedin from "./../../img/icons/linkedIn.svg";
 import insta from "./../../img/icons/instagram.svg";
 
-///
-import "./style.css";
+
 
 const Footer = () => {
   return (

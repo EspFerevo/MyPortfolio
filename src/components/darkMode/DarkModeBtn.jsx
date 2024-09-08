@@ -1,10 +1,16 @@
-const DarkBtn = () => {
-  return (
-    <button className="dark-mode-btn">
-      <img src={sun} alt="Light mode" className="dark-mode-btn__icon" />
-      <img src={moon} alt="Dark mode" className="dark-mode-btn__icon" />
-    </button>
-  );
+import sun from './../../img/icons/sun.svg';
+import moon from './../../img/icons/moon.svg';
+
+import './styles.css'
+
+const DarkModeBtn = () => {
+ return (
+  <button className="dark-mode-btn">
+   <img src={sun} alt="Light mode" className="dark-mode-btn__icon" />
+   <img src={moon} alt="Dark mode" className="dark-mode-btn__icon" />
+  </button>
+ );
 };
 
-export default DarkBtn;
+export default DarkModeBtn;
+addEventListener;

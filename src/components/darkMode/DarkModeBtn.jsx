@@ -1,7 +1,7 @@
 ///
-import sun from './../../img/icons/sun.svg';
-import moon from './../../img/icons/moon.svg';
-import './styles.css'
+import './moon.svg';
+import './sun.svg';
+import './styles.css';
 
 ///
 const DarkModeBtn = () => {

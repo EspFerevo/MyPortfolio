@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef } from 'react';
+import { useLocalStorage } from '../../utils/useLocalStorage.jsx';
 import sun from './../../img/icons/sun.svg';
 import moon from './../../img/icons/moon.svg';
 import './styles.css';

@@ -1,4 +1,4 @@
-//Import IMG projects 
+//Import IMG projects
 import project01 from './../img/projects/01.jpg';
 import project01Big from './../img/projects/01-big.jpg';
 import project02 from './../img/projects/02.jpg';
@@ -16,22 +16,20 @@ import project06Big from './../img/projects/06-big.jpg';
 const projects = [
   {
     title: 'Project',
-    skils: 'Node Js',
+    skills: 'Node Js',
     img: project01,
     imgBig: project01Big,
     gitHubLink: 'https://github.com/electerious/basicLightbox#readme',
   },
   {
     title: 'Project',
-    skils: 'Node Js',
+    skills: 'Node Js',
     img: project02,
     imgBig: project02Big,
-
-    gitHubLink: 'https://github.com/electerious/basicLightbox#readme',
   },
   {
     title: 'Project',
-    skils: 'Node Js',
+    skills: 'Node Js',
     img: project03,
     imgBig: project03Big,
 
@@ -39,7 +37,7 @@ const projects = [
   },
   {
     title: 'Project',
-    skils: 'Node Js',
+    skills: 'Node Js',
     img: project04,
     imgBig: project04Big,
 
@@ -47,7 +45,7 @@ const projects = [
   },
   {
     title: 'Project',
-    skils: 'Node Js',
+    skills: 'Node Js',
     img: project05,
     imgBig: project05Big,
 
@@ -55,13 +53,12 @@ const projects = [
   },
   {
     title: 'Project',
-    skils: 'Node Js',
+    skills: 'Node Js',
     img: project06,
     imgBig: project06Big,
 
     gitHubLink: 'https://github.com/electerious/basicLightbox#readme',
   },
-  
 ];
 
-export {projects}
+export { projects };

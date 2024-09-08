@@ -7,7 +7,7 @@ const GitBtn = ({ link }) => {
       href={link}
       className="btn-outline"
       target="_blank"
-      Rel="noreferrer noopener"
+      rel="noreferrer noopener"
     >
       <img src={gitblack} alt="GitHub icon" />
       GitHub Repo

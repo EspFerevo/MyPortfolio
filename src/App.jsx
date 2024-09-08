@@ -5,15 +5,16 @@ import HomePage from './pages/Home.jsx';
 import Projects from './pages/Projects.jsx';
 import Contacts from './pages/Contacts.jsx';
 import Project from './pages/Project.jsx';
+import GitBtn from './components/btnGithub/GitBtn.jsx';
 
 function App() {
   return (
     <>
       <div className="App">
         <NavBar />
-        {/* <HomePage /> */}
+        <HomePage />
         {/* <Projects /> */}
-        <Project />
+        {/* <Project /> */}
         {/* <Contacts /> */}
         <Footer />
       </div>

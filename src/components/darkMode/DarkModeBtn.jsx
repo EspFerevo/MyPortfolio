@@ -4,15 +4,16 @@ import moon from './../../img/icons/moon.svg';
 import './styles.css';
 
 const DarkModeBtn = () => {
-
  const [darkMode, setDarkMode] = useState('light');
- const btnRef = useRef(null)
+ const btnRef = useRef(null);
 
  useEffect(() => {
   if (darkMode === 'dark') {
    document.body.classList.add('dark');
+   btnRef.current.classList.add('dark-mode-btn--active');
   } else {
    document.body.classList.remove('dark');
+   btnRef.current.classList.remove('dark-mode-btn--active');
   }
  }, [darkMode]);
 

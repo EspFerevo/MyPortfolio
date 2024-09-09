@@ -15,13 +15,13 @@ const HomePage = () => {
       <li class="content-list__item">
        <h2 class="title-2">Frontend</h2>
        <p>
-        JavaScript, TypeScript, ReactJS, VueJS, Redux, HTML, CSS, NPM, CSS
+        JavaScript,ReactJS, VueJS, Redux, HTML, CSS, NPM, CSS
         Flexible Box Layout, GitHub, Adaptive web design
        </p>
       </li>
       <li class="content-list__item">
        <h2 class="title-2">Backend</h2>
-       <p>NodeJS, Postman, MongoDB, Swagger, Express, RestAPI</p>
+       <p>NodeJS, MongoDB, Express, RestAPI, Postman, Swagger</p>
       </li>
      </ul>
     </div>

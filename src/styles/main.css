@@ -98,10 +98,9 @@ body {
     font-size: 40px;
     font-weight: 700;
     line-height: 1.3;
-    background: linear-gradient(90deg, #ff6f61, #d085a4);
     -webkit-background-clip: text;
     background-clip: text;
-    color: transparent;
+
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
@@ -178,7 +177,7 @@ body {
 }
 
 .my-city .highlight-yellow {
-    color: #ffeb3b;
+    color: #ffeb3b; 
     text-shadow: 1px 1px 3px rgba(255, 255, 0, 0.6);
 }
 

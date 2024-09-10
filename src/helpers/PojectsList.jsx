@@ -24,14 +24,14 @@ import project07Big from './../img/projects/07-big.png';
 const projects = [
  {
   title: 'Pet project HTML + CSS',
-  skills: 'HTML, CSS, JS , Adaptive web design, FlexBox',
+  stack: 'HTML, CSS, JS , Adaptive web design, FlexBox',
   img: project01,
   imgBig: project01Big,
   gitHubLink: 'https://github.com/EspFerevo/html-css-pet',
  },
  {
   title: 'Photo Studio Project',
-  skills: 'HTML, CSS, JS , Adaptive web design, FlexBox, Vite',
+  stack: 'HTML, CSS, JS , Adaptive web design, FlexBox, Vite',
   img: project02,
   imgBig: project02Big,
   gitHubLink: 'https://github.com/EspFerevo/photo-stuido-pet',
@@ -39,35 +39,35 @@ const projects = [
  },
  {
   title: 'PhoneBook App',
-  skills: 'HTML, CSS, JS, ReactJS, Vite, Vercel, Axios, Formik, React-redux',
+  stack: 'HTML, CSS, JS, ReactJS, Vite, Vercel, Axios, Formik, React-redux',
   img: project03,
   imgBig: project03Big,
   gitHubLink: 'https://github.com/EspFerevo/react-phonebook',
  },
  {
   title: 'Team Project `Header/Hero sections`',
-  skills: 'HTML, CSS, JS, Adaptive web design, FlexBox, Vite ',
+  stack: 'HTML, CSS, JS, Adaptive web design, FlexBox, Vite ',
   img: project04,
   imgBig: project04Big,
   gitHubLink: 'https://f-r-a-n-c-u-z.github.io/Projectus-06/',
  },
  {
   title: 'Weather App',
-  skills: 'HTML, CSS, JS, VueJS, Vite',
+  stack: 'HTML, CSS, JS, VueJS, Vite',
   img: project05,
   imgBig: project05Big,
   gitHubLink: 'https://github.com/EspFerevo/weather-pet',
  },
  {
   title: 'My Portfolio',
-  skills: 'HTML, CSS, JS, ReactJS, Vite, Vercel',
+  stack: 'HTML, CSS, JS, ReactJS, Vite, Vercel',
   img: project06,
   imgBig: project06Big,
   gitHubLink: 'https://github.com/EspFerevo/MyPortfolio',
  },
  {
     title: 'Backend App',
-    skills: 'NodeJS, JS, MongoDB, Postman, RestAPI, Express, Swagger, Libraries',
+    stack: 'NodeJS, JS, MongoDB, Postman, RestAPI, Express, Swagger, Libraries',
     img: project07,
     imgBig: project07Big,
   

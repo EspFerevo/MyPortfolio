@@ -19,7 +19,7 @@ const Project = () => {
       className="project-details__cover"
      />
      <div className="project-details__desc">
-      <p>Skills: {project.skills}</p>
+      <p>Stack : {project.stack}</p>
      </div>
 
      {project.gitHubLink && <GitBtn link="https://github.com/" />}

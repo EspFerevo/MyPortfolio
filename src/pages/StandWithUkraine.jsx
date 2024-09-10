@@ -1,4 +1,5 @@
 import './../styles/help.css'
+import './../styles/link.css'
 
 const Help = () => {
  return (

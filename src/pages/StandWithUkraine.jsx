@@ -18,24 +18,24 @@ const Help = () => {
                         </li>
                     {/*  */}
                         <h2 class="title-2">Useful Links</h2>
-                    <ul class="content-list">
-                    <li class="content-list__item">
-                            <a href="https://war.ukraine.ua/" target="_blank" rel="noopener noreferrer">Russia invaded Ukraine
-                            </a>
-                        </li>
-                        <li class="content-list__item">
-                            <a href="https://standwithukraine.com.ua/uk" target="_blank" rel="noopener noreferrer">Donate to Ukrainian Relief Funds</a>
-                        </li>
-                        <li class="content-list__item">
-                            <a href="https://ukraine.europarl.europa.eu/en/home" target="_blank" rel="noopener noreferrer">Spread Awareness</a>
-                        </li>
-                        <li class="content-list__item">
-                            <a href="https://stand-with-ukraine.pp.ua/" target="_blank" rel="noopener noreferrer">Participate in Local Initiatives</a>
-                        </li>
-                        <li class="content-list__item">
-                            <a href="https://visitukraine.today/ru/blog/1854/how-to-become-a-volunteer-in-ukraine-during-the-war-searching-for-volunteer-organizations-and-entry-rules" target="_blank" rel="noopener noreferrer">Volunteer Your Time</a>
-                        </li>
-                    </ul>
+                        <ul class="content-list">
+    <li class="content-list__item content-list__item--interactive">
+        <a href="https://war.ukraine.ua/" target="_blank" rel="noopener noreferrer" class="interactive-link">Russia invaded Ukraine</a>
+    </li>
+    <li class="content-list__item content-list__item--interactive">
+        <a href="https://standwithukraine.com.ua/uk" target="_blank" rel="noopener noreferrer" class="interactive-link">Donate to Ukrainian Relief Funds</a>
+    </li>
+    <li class="content-list__item content-list__item--interactive">
+        <a href="https://ukraine.europarl.europa.eu/en/home" target="_blank" rel="noopener noreferrer" class="interactive-link">Spread Awareness</a>
+    </li>
+    <li class="content-list__item content-list__item--interactive">
+        <a href="https://stand-with-ukraine.pp.ua/" target="_blank" rel="noopener noreferrer" class="interactive-link">Participate in Local Initiatives</a>
+    </li>
+    <li class="content-list__item content-list__item--interactive">
+        <a href="https://visitukraine.today/ru/blog/1854/how-to-become-a-volunteer-in-ukraine-during-the-war-searching-for-volunteer-organizations-and-entry-rules" target="_blank" rel="noopener noreferrer" class="interactive-link">Volunteer Your Time</a>
+    </li>
+</ul>
+
                     </ul>
                 </div>
             </main>

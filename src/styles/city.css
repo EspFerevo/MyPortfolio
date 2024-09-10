@@ -1,0 +1,43 @@
+.my-city {
+    font-size: 24px; 
+    font-weight: 500;
+    line-height: 1.5;
+    text-align: center;
+    display: inline;
+}
+
+.my-city .highlight-yellow {
+    color: #ffeb3b; 
+    text-shadow: 1px 1px 3px rgba(255, 255, 0, 0.6);
+}
+
+.my-city .highlight-blue {
+    color: #2196f3; 
+    text-shadow: 1px 1px 3px rgba(33, 150, 243, 0.6);
+}
+
+.my-city {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.5;
+    text-align: center;
+    display: inline-block;
+    position: relative;
+}
+
+.my-city::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background: linear-gradient(90deg, #ffeb3b, #2196f3);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.5s ease;
+}
+
+.my-city:hover::before {
+    transform: scaleX(1);
+}

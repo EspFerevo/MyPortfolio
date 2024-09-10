@@ -1,6 +1,7 @@
 ///
 import Project from '../components/project/Project.jsx';
 import { projects } from '../helpers/PojectsList.jsx';
+import './../styles/projects.css'
 
 ///
 const Projects = () => {
@@ -24,3 +25,4 @@ const Projects = () => {
 };
 
 export default Projects;
+

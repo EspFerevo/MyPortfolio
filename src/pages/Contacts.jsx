@@ -1,3 +1,5 @@
+import './../styles/city.css'
+
 const Contacts = () => {
  return (
   <main className="section">

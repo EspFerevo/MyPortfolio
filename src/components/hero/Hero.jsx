@@ -1,7 +1,5 @@
 ///
 import './style.css';
-import { MdScreenshotMonitor } from "react-icons/md";
-
 
 ///
 const Header = () => {
@@ -12,7 +10,7 @@ const Header = () => {
      <strong>
       Hi, my name is <em>Oleksandr</em>
      </strong>
-     <br />a Frontend Developer
+     <br />Frontend Developer
     </h1>
     <div className="header__text">
      <p>with passion for learning and creating.</p>

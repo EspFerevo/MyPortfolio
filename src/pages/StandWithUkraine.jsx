@@ -70,7 +70,7 @@ const Help = () => {
        </li>
        <li className="content-list__item content-list__item--interactive">
         <a
-         href="https://visitukraine.today/ru/blog/1854/how-to-become-a-volunteer-in-ukraine-during-the-war-searching-for-volunteer-organizations-and-entry-rules"
+         href="https://visitukraine.today/uk/blog/1854/how-to-become-a-volunteer-in-ukraine-during-the-war-searching-for-volunteer-organizations-and-entry-rules"
          target="_blank"
          rel="noopener noreferrer"
          className="interactive-link"

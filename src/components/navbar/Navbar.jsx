@@ -43,6 +43,15 @@ const NavBar = () => {
         Contacts
        </NavLink>
       </li>
+
+      <li className="nav-list__item">
+       <NavLink
+        to="/help"
+        className={({ isActive }) => (isActive ? activeLink : normal)}
+       >
+        #StandWithUkraine
+       </NavLink>
+      </li>
      </ul>
 
      <DarkModeBtn />

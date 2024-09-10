@@ -35,6 +35,7 @@ const projects = [
   img: project02,
   imgBig: project02Big,
   gitHubLink: 'https://github.com/EspFerevo/photo-stuido-pet',
+
  },
  {
   title: 'Pet project phoneBook App',
@@ -65,13 +66,13 @@ const projects = [
   gitHubLink: 'https://github.com/EspFerevo/MyPortfolio',
  },
  {
-  title: 'Pet project Backend Service',
-  stack: 'NodeJS, JS, MongoDB, Postman, RestAPI, Express, Swagger, Libraries',
-  img: project07,
-  imgBig: project07Big,
-
-  gitHubLink: 'https://github.com/EspFerevo/nodejs-hw-mongodb',
- },
+    title: 'Pet project Backend Service',
+    stack: 'NodeJS, JS, MongoDB, Postman, RestAPI, Express, Swagger, Libraries',
+    img: project07,
+    imgBig: project07Big,
+  
+    gitHubLink: 'https://github.com/EspFerevo/nodejs-hw-mongodb',
+   }
 ];
 
 export { projects };

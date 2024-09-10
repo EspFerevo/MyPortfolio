@@ -11,7 +11,7 @@ const Contacts = () => {
       <h2 className="title-2">Location</h2>
       <p className="my-city">
        <a
-        href="https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D1%82%D0%BE%D0%BC%D0%B8%D1%80"
+        href="https://uk.wikipedia.org/wiki/%D0%96%D0%B8%D1%82%D0%BE%D0%BC%D0%B8%D1%80"
         className="highlight-yellow"
         target="_blank"
         rel="noopener noreferrer"
@@ -20,7 +20,7 @@ const Contacts = () => {
        </a>{' '}
        <br />
        <a
-        href="https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D1%82%D0%BE%D0%BC%D0%B8%D1%80"
+        href="https://uk.wikipedia.org/wiki/%D0%96%D0%B8%D1%82%D0%BE%D0%BC%D0%B8%D1%80"
         className="highlight-blue"
         target="_blank"
         rel="noopener noreferrer"

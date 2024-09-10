@@ -22,7 +22,7 @@
  width: 45px;
  height: 45x;
  transition:
-  transform 0.3s ease,
+transform 0.3s ease,
   filter 0.3s ease;
 }
 

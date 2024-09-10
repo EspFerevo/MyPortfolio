@@ -24,9 +24,9 @@ const HomePage = () => {
                         <li class="content-list__item">
                             <h2 class="title-2">Backend</h2>
                             <p>
-                                Key technologies: NodeJS, MongoDB, Express.<br/>
-                                Experience with RESTful APIs.<br/>
-                                Tools for testing and documentation: Postman, Swagger<br/></p>
+                                Key technologies: NodeJS, MongoDB, Express.<br />
+                                Experience with RESTful APIs.<br />
+                                Tools for testing and documentation: Postman, Swagger<br /></p>
                         </li>
                     </ul>
                 </div>

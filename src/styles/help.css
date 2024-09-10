@@ -1,7 +1,10 @@
 .background-image {
-    background-image: url('./../img/war/warimg1.jpeg');
+    background-image: url('./../img/war/warimg4.jpg');
     background-size: cover; 
     background-position: center; 
     background-repeat: no-repeat; 
   }
   
+  .standTextColor {
+    color: white;
+  }

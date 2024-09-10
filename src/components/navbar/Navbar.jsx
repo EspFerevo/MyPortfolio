@@ -44,7 +44,7 @@ const NavBar = () => {
        </NavLink>
       </li>
 
-      <li className="nav-list__item">
+      <li className="nav-list__item stend">
        <NavLink
         to="/help"
         className={({ isActive }) => (isActive ? activeLink : normal)}

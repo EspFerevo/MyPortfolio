@@ -25,7 +25,6 @@
 	/* Light mode */
 	--page-bg: var(--white);
 	--text-color: var(--black);
-	--accent: var(--purple);
 	--title-1: var(--accent);
 
 	--project-card-bg: var(--white);

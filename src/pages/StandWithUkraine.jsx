@@ -1,7 +1,10 @@
+import './../styles/help.css'
+
 const Help = () => {
  return (
   <>
    <main class="section background-image">
+    
     <div class="container">
      <ul class="content-list">
       <li class="content-list__item">

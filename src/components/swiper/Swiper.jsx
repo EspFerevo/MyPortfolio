@@ -21,7 +21,7 @@ const BackgroundSlider = () => {
     return (
         <div className="swiper-container" ref={swiperContainerRef}>
             <div className="swiper-wrapper">
-                <div className="swiper-slide" style={{ backgroundImage: 'url(/path/to/image1.jpg)' }}></div>
+                <div className="swiper-slide" style={{ backgroundImage: 'url(./)' }}></div>
                 <div className="swiper-slide" style={{ backgroundImage: 'url(/path/to/image2.jpg)' }}></div>
                 <div className="swiper-slide" style={{ backgroundImage: 'url(/path/to/image3.jpg)' }}></div>
                 <div className="swiper-slide" style={{ backgroundImage: 'url(/path/to/image3.jpg)' }}></div>

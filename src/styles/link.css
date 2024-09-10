@@ -3,17 +3,17 @@
     padding: 10px 20px;
     border: 2px solid #007BFF;
     border-radius: 8px; 
-    color: #007BFF; 
+    color: white; 
     text-decoration: none;
     font-weight: bold; 
-    background-color: #fff; 
+    background-color: transparent; 
     transition: all 0.3s ease; 
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
 }
 
 .interactive-link:hover {
     background-color: #007BFF; 
-    color: #fff; 
+    color: white;
     border-color: #0056b3; 
     transform: translateY(-3px);
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
@@ -26,6 +26,6 @@
 
 .interactive-link:active {
     background-color: #0056b3; 
-    color: #fff; 
+    color: white; 
     transform: translateY(-1px); 
 }

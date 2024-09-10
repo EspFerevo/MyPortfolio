@@ -63,8 +63,8 @@ body {
 #root {
 	min-height: 100vh;
 }
-/* General */
 
+/* General */
 .container {
 	margin: 0 auto;
 	padding: 0 15px;
@@ -99,7 +99,6 @@ body {
 
 
 /* Projects  */
-
 .projects {
 	display: flex;
 	justify-content: center;
@@ -110,7 +109,6 @@ body {
 
 
 /* Project details */
-
 .project-details {
 	margin: 0 auto;
 	max-width: 865px;
@@ -162,7 +160,6 @@ body {
 .content-list__item p + p {
 	margin-top: 0.5em;
 }
-
 
 
 @media (max-width: 620px) {
@@ -249,4 +246,3 @@ body {
 		width: 28px;
 	}
 }
-

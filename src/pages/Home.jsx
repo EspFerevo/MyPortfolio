@@ -23,7 +23,7 @@ const HomePage = () => {
                             <p>
                                 Key technologies: Java Script, ReactJS, VueJS, Redux, HTML5, CSS3.<br />
                                 Familiar with tools: NPM, Flexbox,CSS Grid.<br />
-                                Experience with version control systems: GitHub.<br />
+                                Experience with version control systems: GitHub, GIT.<br />
                                 Proficient in responsive web design.<br />
                             </p>
                         </li>

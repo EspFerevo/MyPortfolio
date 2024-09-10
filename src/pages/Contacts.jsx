@@ -6,10 +6,12 @@ const Contacts = () => {
 
                 <ul className="content-list">
                     <li className="content-list__item">
-                        <h2  className="title-2" >Location</h2>
-                        <p className="my-city" >
-                            <span  className="highlight-yellow">Ukraine</span> <br />  <span className="highlight-blue">Zhytomyr</span>
-                        </p> </li>
+                        <h2 className="title-2" >Location</h2>
+                        <p className="my-city">
+                            <a href="https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D1%82%D0%BE%D0%BC%D0%B8%D1%80" className="highlight-yellow" target="_blank" rel="noopener noreferrer">Ukraine</a> <br />
+                            <a href="https://ru.wikipedia.org/wiki/%D0%96%D0%B8%D1%82%D0%BE%D0%BC%D0%B8%D1%80" className="highlight-blue" target="_blank" rel="noopener noreferrer">Zhytomyr</a>
+                        </p>
+                    </li>
                     <li className="content-list__item">
                         <h2 className="title-2">Telegram / Viber</h2>
                         <p>

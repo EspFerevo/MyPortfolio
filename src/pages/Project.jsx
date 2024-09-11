@@ -8,8 +8,6 @@ const Project = () => {
  const { id } = useParams();
  const project = projects[id];
 
-
-
  return (
   <main className="section">
    <div className="container">

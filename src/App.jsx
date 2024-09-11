@@ -1,4 +1,3 @@
-///
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import NavBar from './components/navbar/Navbar.jsx';
 import Footer from './components/footer/Footer.jsx';
@@ -9,7 +8,6 @@ import Project from './pages/Project.jsx';
 import Help from './pages/StandWithUkraine.jsx';
 import './styles/main.css';
 
-///
 function App() {
  return (
   <>

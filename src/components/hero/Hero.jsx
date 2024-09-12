@@ -10,12 +10,17 @@ const Header = () => {
      <strong>
       Hi, my name is <em>Oleksandr</em>
      </strong>
-     <br />Frontend Developer
+     <br />
+     Frontend Developer
     </h1>
     <div className="header__text">
      <p>with passion for learning and creating.</p>
     </div>
-    <a href="#" className="btn" download>
+    <a
+     href="./../../../public/CV_Oleksandr_Chekrenov_Front-end Developer.pdf"
+     className="btn"
+     download
+    >
      Download CV
     </a>
    </div>

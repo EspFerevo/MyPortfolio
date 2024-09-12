@@ -17,7 +17,7 @@ const Header = () => {
      <p>with passion for learning and creating.</p>
     </div>
     <a
-     href="./../../../public/CV_Oleksandr_Chekrenov_Front-end Developer.pdf"
+     href="https://drive.google.com/file/d/1DKi0GalelyRJXWB_QZt0yeXLDya0F5J_/view?usp=drive_link"
      className="btn"
      download
     >
